@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Martel+Sans:wght@600&family=Poppins:wght@300;400;700&display=swap');
+
+*{
+    padding: 0px;
+    margin: 0px;
+    
+}
+.select_nativelang{
+    background-image: url(Assets/Images/lang.png);
+    width: 23px;
+    height: 23px;
+}
